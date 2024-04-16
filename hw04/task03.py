@@ -91,7 +91,7 @@ class AtmMachine:
         self.check_wealth()
         if self.check_nomination(cash):
             operation_sum = self.get_commission(cash) + cash
-            if operation_sum > self.cash:
+            if operation_sum < self.cash:
                 self.cash -= operation_sum
                 self.check_dividends()
                 print(self.SUCCESS_WITHDRAWAL)
