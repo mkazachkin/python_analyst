@@ -1,0 +1,62 @@
+[
+    {
+        "Path": "./task01.py",
+        "Type": "File",
+        "Size": 910
+    },
+    {
+        "Path": "./task02",
+        "Type": "Directory",
+        "Size": 14238
+    },
+    {
+        "Path": "task02/__init__.py",
+        "Type": "File",
+        "Size": 0
+    },
+    {
+        "Path": "task02/crawler.py",
+        "Type": "File",
+        "Size": 3182
+    },
+    {
+        "Path": "task02/__pycache__",
+        "Type": "Directory",
+        "Size": 5528
+    },
+    {
+        "Path": "task02/__pycache__/__init__.cpython-311.pyc",
+        "Type": "File",
+        "Size": 181
+    },
+    {
+        "Path": "task02/__pycache__/crawler.cpython-311.pyc",
+        "Type": "File",
+        "Size": 5347
+    },
+    {
+        "Path": "./task02/__init__.py",
+        "Type": "File",
+        "Size": 0
+    },
+    {
+        "Path": "./task02/crawler.py",
+        "Type": "File",
+        "Size": 3182
+    },
+    {
+        "Path": "./task02/__pycache__",
+        "Type": "Directory",
+        "Size": 5528
+    },
+    {
+        "Path": "./task02/__pycache__/__init__.cpython-311.pyc",
+        "Type": "File",
+        "Size": 181
+    },
+    {
+        "Path": "./task02/__pycache__/crawler.cpython-311.pyc",
+        "Type": "File",
+        "Size": 5347
+    }
+]
